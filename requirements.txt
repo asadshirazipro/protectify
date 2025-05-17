@@ -1,1 +1,5 @@
-pip install scapy pandas matplotlib psutil Pillow torch pytorch-lightning requests customtkinter PyQt5 numpy ipaddress
+pip install torch
+pip install pytorch-lightning
+pip install numpy
+pip install scapy
+pip install customtkinter
